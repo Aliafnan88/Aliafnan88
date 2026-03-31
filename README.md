@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Aliafnan88
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning Web development 
-- 💞️ I’m looking coding partner 
-- 📫  reach me in Instagram 
- 
-<!---
-Aliafnan88/Aliafnan88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ # 💫 About Me:
+<br># Hi there, I'm Md Ali Afnan 👋<br><br>🎓 Final Year B.Tech (IT) Student — BCET, MAKAUT, Durgapur (2026)<br>💻 MERN Stack Developer | Linux Admin | Java Programmer<br>🌍 Durgapur, West Bengal, India<br><br>---<br><br>## 🚀 About Me<br><br>I'm a passionate Full Stack Developer who loves building scalable web applications<br>and exploring the intersection of software engineering, AI, and system administration.<br><br>- 🔭 Currently working on my **Final Year Project** — Steganography + Deep Learning for Data Security<br>- 🌱 Continuously improving my skills in **React.js, Next.js, Node.js, and MongoDB**<br>- 🐧 Experienced in **Linux Server Administration** and **Nginx configuration**<br>- 🤝 Open to collaborating on **interesting web projects**<br>- 📫 Reach me at **aliafnan850@gmail.com**<br>- ⚡ Fun fact: I enjoy solving real-world problems through clean code<br><br>---<br><br>## 🛠️ Tech Stack<br><br>**Frontend:**<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)<br><br>**Backend:**<br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)<br>![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)<br>![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)<br><br>**Database:**<br>![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)<br><br>**Languages & Tools:**<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br><br>---<br><br>## 💼 Experience<br><br>🐧 **Linux Administrator Intern** — Kvit Solution Pvt. Ltd., Delhi *(Aug–Oct 2025)*<br>> Nginx setup, SSL/TLS, reverse proxy, virtual hosts, firewall configuration<br><br>☕ **Java Programmer Intern** — CodSoft *(Aug–Sep 2024)*<br>> Core Java projects — ATM System, Number Game, OOP fundamentals<br><br>---<br><br>## 🔥 Featured Projects<br><br>| Project | Description | Tech |<br>|--------|-------------|------|<br>| 🔐 [Steganography + Deep Learning](https://github.com/Aliafnan88) | Image encryption using DL — Final Year Project | Python, Deep Learning |<br>| 📍 [Employee Attendance System](https://github.com/Aliafnan88) | Real-time location-based attendance with AI | Next.js, Node.js, MongoDB, Gemini |<br>| 🌐 [Nginx Web Server + AI Voice Agent](https://github.com/Aliafnan88/Deployment-and-Configuration-of-Nginx-Web-Server-on-Linux) | Linux server with AI chatbot integration | Nginx, Linux, JavaScript |<br><br>---<br><br>## 📊 GitHub Stats<br><br>![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aliafnan88&show_icons=true&theme=tokyonight&hide_border=true)<br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliafnan88&layout=compact&theme=tokyonight&hide_border=true)<br><br>---<br><br>## 🤝 Connect With Me<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-afnan-727261250)<br>[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliafnan850@gmail.com)<br>[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aliafnan88)<br>[![Instagram](https://img.shields.io/instagram/follow/ali_afnan88?style=for-the-badge&logo=instagram)](https://www.instagram.com/ali_afnan88)<br><br>---<br><br>⭐ *If you find my work helpful, consider starring my repositories!*
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali_afnan88) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ali Afnan ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ali Afnan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aliafnan850@gmail.com) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aliafnan88 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aliafnan88 &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliafnan88 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aliafnan88 &theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aliafnan88 &limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Aliafnan88 &icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
